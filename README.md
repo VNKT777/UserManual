@@ -1,5 +1,5 @@
 # User Manual
-New to Google colab or Kaggle?
+New to Google Colab or Kaggle?
 ## Google Colab
 - Create a new notebook.
 - Import the necessary modules.
